@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://api.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.js"></script>
+        <link href="https://api.mapbox.com/mapbox-gl-js/v0.44.2/mapbox-gl.css" rel="stylesheet" />
+        <link href="style.css" rel="stylesheet" />
+        <title>Jupyter Map</title>
+    </head>
+
+    <body>
+        <div id="map"></div>
+        <div id="menu">
+            <span class="menu__item">
+                <input id="basic" type="radio" name="rtoggle">
+                <label for="basic">Basic</label>
+            </span>
+            <span class="menu__item">
+                <input id="streets" type="radio" name="rtoggle">
+                <label for="streets">Streets</label>
+            </span>
+            <span class="menu__item">
+                <input id="bright" type="radio" name="rtoggle">
+                <label for="bright">Bright</label>
+            </span>
+            <span class="menu__item">
+                <input id="light" type="radio" name="rtoggle" checked="checked">
+                <label for="light">Light</label>
+            </span>
+            <span class="menu__item">
+                <input id="dark" type="radio" name="rtoggle">
+                <label for="dark">Dark</label>
+            </span>
+            <span class="menu__item">
+                <input id="traffic-night" type="radio" name="rtoggle">
+                <label for="traffic-night">Night</label>
+            </span>
+            <span class="menu__item">
+                <input id="traffic-day" type="radio" name="rtoggle">
+                <label for="traffic-day">Day</label>
+            </span>
+        </div>
+        <button id="reset">Reset Zoom</button>
+        <script src="./mapbox.js"></script>
+        <!-- Google Analytics -->
+        <script>
+            (function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,"script","https://www.google-analytics.com/analytics.js","ga");
+            ga("create", "UA-71773079-3", "auto");
+            ga("send", "pageview");
+        </script>
+    </body>
+</html>
