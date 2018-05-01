@@ -1,0 +1,489 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Northeastern University",
+        "institution_url": "https://www.northeastern.edu/",
+        "course_name": "Computational Physics",
+        "course_area": "Physics",
+        "course_url": "http://www.github.com/afeiguin/comp-phys",
+        "instructor_name": "Adrian Feiguin",
+        "instructor_email": "a.feiguin@northeastern.edu",
+        "contact_name": "Adrian Feiguin",
+        "contact_email": "a.feiguin@northeastern.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.089269,
+          42.3400668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Columbia University",
+        "institution_url": "https://www.columbia.edu/",
+        "course_name": "Introduction to Numerical Methods",
+        "course_area": "Math",
+        "course_url": "",
+        "instructor_name": "Kyle Mandil",
+        "instructor_email": "kyle.mandli@columbia.edu",
+        "contact_name": "Kyle Mandil",
+        "contact_email": "kyle.mandli@columbia.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9606009,
+          40.807968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Columbia University",
+        "institution_url": "https://www.columbia.edu/",
+        "course_name": "Numerical Methods for PDEs",
+        "course_area": "Math",
+        "course_url": "",
+        "instructor_name": "Kyle Mandil",
+        "instructor_email": "kyle.mandli@columbia.edu",
+        "contact_name": "Kyle Mandil",
+        "contact_email": "kyle.mandli@columbia.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9616009,
+          40.807968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University College London",
+        "institution_url": "http://www.ucl.ac.uk/",
+        "course_name": "An introduction to research programming with Python",
+        "course_area": "Research programming",
+        "course_url": "http://rits.github-pages.ucl.ac.uk/doctoral-programming-intro/",
+        "instructor_name": "David Pérez-Suárez",
+        "instructor_email": "d.perez-suarez@ucl.ac.uk",
+        "contact_name": "David Pérez-Suárez",
+        "contact_email": "d.perez-suarez@ucl.ac.uk",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.133803,
+          51.524636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University College London",
+        "institution_url": "http://www.ucl.ac.uk/",
+        "course_name": "Research Software Engineering With Python",
+        "course_area": "Research programming",
+        "course_url": "http://github-pages.ucl.ac.uk/rsd-engineeringcourse/",
+        "instructor_name": "David Pérez-Suárez",
+        "instructor_email": "d.perez-suarez@ucl.ac.uk",
+        "contact_name": "David Pérez-Suárez",
+        "contact_email": "d.perez-suarez@ucl.ac.uk",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.133803,
+          51.524436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Research Institute for Nature and Forest (INBO)",
+        "institution_url": "https://www.inbo.be/en",
+        "course_name": "Introduction to scripting in Python/R for GIS analysis",
+        "course_area": "data science, programming, gis",
+        "course_url": "https://github.com/stijnvanhoey/course_gis_scripting",
+        "instructor_name": "Stijn Van Hoey",
+        "instructor_email": "stijn.vanhoey@inbo.be",
+        "contact_name": "Stijn Van Hoey",
+        "contact_email": "stijn.vanhoey@inbo.be",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.350822,
+          50.866489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Ghent University",
+        "institution_url": "https://www.ugent.be/en",
+        "course_name": "Data manipulation, analysis and visualisation in Python",
+        "course_area": "data science, programming",
+        "course_url": "https://github.com/jorisvandenbossche/DS-python-data-analysis",
+        "instructor_name": "Joris Van den Bossche and Stijn Van Hoey",
+        "instructor_email": "jorisvandenbossche@gmail.com",
+        "contact_name": "Joris Van den Bossche ",
+        "contact_email": "jorisvandenbossche@gmail.com",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.727822,
+          51.046555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Vanderbilt University Medical Center",
+        "institution_url": "http://mc.vanderbilt.edu/",
+        "course_name": "BIOS 8366",
+        "course_area": "Biostatistics",
+        "course_url": "https://github.com/fonnesbeck/Bios8366",
+        "instructor_name": "Chris Fonnebseck",
+        "instructor_email": "chris.fonnesbeck@vanderbilt.edu",
+        "contact_name": "Chris Fonnebseck",
+        "contact_email": "chris.fonnesbeck@vanderbilt.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.802129,
+          36.141585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Grand Valley State University",
+        "institution_url": "https://www.gvsu.edu/",
+        "course_name": "Discrete Structures for Computer Science 1 and 2 (MTH 225, MTH 325) ",
+        "course_area": "Math",
+        "course_url": "",
+        "instructor_name": "Michael Santana",
+        "instructor_email": "santanmi@gvsu.edu ",
+        "contact_name": "Robert Talbert",
+        "contact_email": "talbertr@gvsu.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.888797,
+          42.964155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Columbia University",
+        "institution_url": "https://www.columbia.edu/",
+        "course_name": "Data: Past, Present, and Future",
+        "course_area": "Data Science",
+        "course_url": "https://data-ppf.github.io/",
+        "instructor_name": "Chris Wiggins & Matt Jones",
+        "instructor_email": "chris.wiggins@columbia.edu",
+        "contact_name": "Chris Wiggins",
+        "contact_email": "chris.wiggins@columbia.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9596009,
+          40.807968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Columbia University",
+        "institution_url": "https://www.columbia.edu/",
+        "course_name": "Applied Machine Learning COMS W4995",
+        "course_area": "Machine Learning",
+        "course_url": "http://www.cs.columbia.edu/~amueller/comsw4995s18/",
+        "instructor_name": "Andreas Christian Mueller",
+        "instructor_email": "acm2248@columbia.edu",
+        "contact_name": "Andreas Christian Mueller",
+        "contact_email": "acm2248@columbia.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9606009,
+          40.808968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Johns Hopkins University",
+        "institution_url": "https://www.jhu.edu",
+        "course_name": "Models of Mind and Brain",
+        "course_area": "Psychological and Brain Sciences",
+        "course_url": "",
+        "instructor_name": "Christopher Honey",
+        "instructor_email": "chris.honey@jhu.edu",
+        "contact_name": "Christopher Honey",
+        "contact_email": "chris.honey@jhu.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.620443,
+          39.329520
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "KTH Royal Institute of Technology",
+        "institution_url": "https://www.kth.se/en",
+        "course_name": "Bioinformatics",
+        "course_area": "Bioinformatics",
+        "course_url": "https://www.kth.se/student/kurser/kurs/BB2441?l=en",
+        "instructor_name": "Olav Vahtras",
+        "instructor_email": "vahtras@kth.se",
+        "contact_name": "Olav Vahtras",
+        "contact_email": "vahtras@kth.se",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.070783,
+          59.349522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "KTH Royal Institute of Technology",
+        "institution_url": "https://www.kth.se/en",
+        "course_name": "Programming in Python",
+        "course_area": "Programming",
+        "course_url": "https://www.kth.se/student/kurser/kurs/BB1000?l=en",
+        "instructor_name": "Olav Vahtras",
+        "instructor_email": "vahtras@kth.se",
+        "contact_name": "Olav Vahtras",
+        "contact_email": "vahtras@kth.se",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.070783,
+          59.348522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of California San Diego",
+        "institution_url": "https://ucsd.edu/",
+        "course_name": "Intro to Mathematical Software (Math 157)",
+        "course_area": "Mathematics",
+        "course_url": "https://github.com/kedlaya/math157",
+        "instructor_name": "Kiran Kedlaya",
+        "instructor_email": "kedlaya@ucsd.edu",
+        "contact_name": "Kiran Kedlaya",
+        "contact_email": "kedlaya@ucsd.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.234316,
+          32.880037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of California San Diego",
+        "institution_url": "https://ucsd.edu/",
+        "course_name": "Python for Data Analysis (SIO 209)",
+        "course_area": "Scripps Institute for Oceanography",
+        "course_url": "https://github.com/cuttlefishh/python-for-data-analysis",
+        "instructor_name": "Luke Thompson",
+        "instructor_email": "luke@ucsd.edu",
+        "contact_name": "Luke Thompson",
+        "contact_email": "luke@ucsd.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.234316,
+          32.881037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of California San Diego",
+        "institution_url": "https://ucsd.edu/",
+        "course_name": "Principles of Data Science (DSC 10)",
+        "course_area": "Data Science",
+        "course_url": "https://sites.google.com/a/eng.ucsd.edu/dsc10-fall-2017/",
+        "instructor_name": "Janine Tiefenbruck, Marina Langlois",
+        "instructor_email": "jlobue@eng.ucsd.edu, malanglois@eng.ucsd.edu",
+        "contact_name": "Janine Tiefenbruck, Marina Langlois",
+        "contact_email": "jlobue@eng.ucsd.edu, malanglois@eng.ucsd.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.235316,
+          32.880037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of California San Diego",
+        "institution_url": "https://ucsd.edu/",
+        "course_name": "Introduction to Data Science (COGS 9)",
+        "course_area": "Cognitive Science",
+        "course_url": "http://voyteklab.com/wp-content/uploads/COGS9_syllabus.pdf",
+        "instructor_name": "Bradley Voytek",
+        "instructor_email": "bvoytek@ucsd.edu",
+        "contact_name": "Bradley Voytek",
+        "contact_email": "bvoytek@ucsd.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.234316,
+          32.879037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of California San Diego",
+        "institution_url": "https://ucsd.edu/",
+        "course_name": "Data Science in Practice (COGS 108)",
+        "course_area": "Cognitive Science",
+        "course_url": "https://courses.ucsd.edu/syllabi/SP17/901329.pdf",
+        "instructor_name": "Bradley Voytek",
+        "instructor_email": "bvoytek@ucsd.edu",
+        "contact_name": "Bradley Voytek",
+        "contact_email": "bvoytek@ucsd.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.233316,
+          32.880037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Notre Dame",
+        "institution_url": "https://www.nd.edu/",
+        "course_name": "Introduction to Chemical Engineering Analysis",
+        "course_area": "Chemical Engineering",
+        "course_url": "http://jckantor.github.io/CBE20255/",
+        "instructor_name": "Jeffrey Kantor",
+        "instructor_email": "kantor.1@nd.edu",
+        "contact_name": "Jeffrey Kantor",
+        "contact_email": "kantor.1@nd.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2353388,
+          41.7055716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Notre Dame",
+        "institution_url": "https://www.nd.edu/",
+        "course_name": "Chemical Process Control",
+        "course_area": "Chemical Engineering",
+        "course_url": "http://jckantor.github.io/CBE30338/",
+        "instructor_name": "Jeffrey Kantor",
+        "instructor_email": "kantor.1@nd.edu",
+        "contact_name": "Jeffrey Kantor",
+        "contact_email": "kantor.1@nd.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2363388,
+          41.7055716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Notre Dame",
+        "institution_url": "https://www.nd.edu/",
+        "course_name": "Process Operations",
+        "course_area": "Chemical Engineering",
+        "course_url": "http://jckantor.github.io/CBE40455/",
+        "instructor_name": "Jeffrey Kantor",
+        "instructor_email": "kantor.1@nd.edu",
+        "contact_name": "Jeffrey Kantor",
+        "contact_email": "kantor.1@nd.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2343388,
+          41.7055716
+        ]
+      }
+    }
+  ]
+}
