@@ -484,6 +484,292 @@
           41.7055716
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Amsterdam",
+        "institution_url": "http://www.uva.nl/home",
+        "course_name": "Neuroimaging: BOLD-MRI",
+        "course_area": "Psychology",
+        "course_url": "http://studiegids.uva.nl/xmlpages/page/2017-2018-en/search-course/course/40374",
+        "instructor_name": "Lukas Snoek, Noor Seijdel, H. Steven Scholte",
+        "instructor_email": "lukassnoek@gmail.com",
+        "contact_name": "Lukas Snoek",
+        "contact_email": "lukassnoek@gmail.com",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.955118,
+          52.355243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Amsterdam",
+        "institution_url": "http://www.uva.nl/home",
+        "course_name": "Neuroimaging: Pattern Analysis",
+        "course_area": "Psychology",
+        "course_url": "http://studiegids.uva.nl/xmlpages/page/2017-2018-en/search-course/course/39531",
+        "instructor_name": "Lukas Snoek, Noor Seijdel, H. Steven Scholte",
+        "instructor_email": "lukassnoek@gmail.com",
+        "contact_name": "Lukas Snoek",
+        "contact_email": "lukassnoek@gmail.com",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.956118,
+          52.355243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Edinburgh",
+        "institution_url": "https://www.ed.ac.uk/",
+        "course_name": "Multiple",
+        "course_area": "Multiple",
+        "course_url": "https://noteable.edina.ac.uk/",
+        "instructor_name": "Multiple different users",
+        "instructor_email": "james.slack@ed.ac.uk",
+        "contact_name": "James Slack",
+        "contact_email": "james.slack@ed.ac.uk",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.188027,
+          55.945049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "National Institutes of Health (NIH)",
+        "institution_url": "https://www.nih.gov/",
+        "course_name": "Python Programming for Biologists",
+        "course_area": "Data Science",
+        "course_url": "https://bioinformatics.niaid.nih.gov/resources",
+        "instructor_name": "R. Burke Squires",
+        "instructor_email": "richard.squires@nih.gov",
+        "contact_name": "R. Burke Squires",
+        "contact_email": "richard.squires@nih.gov",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.103224,
+          39.002336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "National Institutes of Health (NIH)",
+        "institution_url": "https://www.nih.gov/",
+        "course_name": "Reproducible Science",
+        "course_area": "Data Science",
+        "course_url": "https://bioinformatics.niaid.nih.gov/resources",
+        "instructor_name": "R. Burke Squires",
+        "instructor_email": "richard.squires@nih.gov",
+        "contact_name": "R. Burke Squires",
+        "contact_email": "richard.squires@nih.gov",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.102224,
+          39.002336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Universidad Técnica Federico Santa María",
+        "institution_url": "http://www.usm.cl/",
+        "course_name": "Fundamentals of Computational Fluid Dynamics",
+        "course_area": "Computational fluid dynamics",
+        "course_url": "https://github.com/usantamaria/mec223_laboratorios",
+        "instructor_name": "Christopher Cooper",
+        "instructor_email": "christopher.cooper@usm.cl",
+        "contact_name": "Christopher Cooper",
+        "contact_email": "christopher.cooper@usm.cl",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.595267,
+          -33.035194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Universidad Técnica Federico Santa María",
+        "institution_url": "http://www.usm.cl/",
+        "course_name": "Aplicaciones de la Matemática en la Ingeniería",
+        "course_area": "Applied Mathematics",
+        "course_url": "https://github.com/usantamaria/mat281",
+        "instructor_name": "Sebastián Flores",
+        "instructor_email": "sebastianandres@gmail.com ",
+        "contact_name": "Christopher Cooper",
+        "contact_email": "christopher.cooper@usm.cl",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.596267,
+          -33.035194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Rostock",
+        "institution_url": "http://www.int.uni-rostock.de/",
+        "course_name": "Digital Signal Processing",
+        "course_area": "Electrical Engineering",
+        "course_url": "https://github.com/spatialaudio/digital-signal-processing-lecture",
+        "instructor_name": "Sascha Spors",
+        "instructor_email": "Sascha.Spors@uni-rostock.de",
+        "contact_name": "Sascha Spors",
+        "contact_email": "Sascha.Spors@uni-rostock.de",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.103605,
+          54.075144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Rostock",
+        "institution_url": "http://www.int.uni-rostock.de/",
+        "course_name": "Signals and Systems",
+        "course_area": "Electrical Engineering",
+        "course_url": "https://github.com/spatialaudio/signals-and-systems-lecture",
+        "instructor_name": "Sascha Spors",
+        "instructor_email": "Sascha.Spors@uni-rostock.de",
+        "contact_name": "Sascha Spors",
+        "contact_email": "Sascha.Spors@uni-rostock.de",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.102605,
+          54.076144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Rostock",
+        "institution_url": "http://www.int.uni-rostock.de/",
+        "course_name": "Communication Acoustics",
+        "course_area": "Electrical Engineering",
+        "course_url": "https://github.com/spatialaudio/communication-acoustics-exercises",
+        "instructor_name": "Sascha Spors",
+        "instructor_email": "Sascha.Spors@uni-rostock.de",
+        "contact_name": "Sascha Spors",
+        "contact_email": "Sascha.Spors@uni-rostock.de",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.104605,
+          54.076144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Rostock",
+        "institution_url": "http://www.int.uni-rostock.de/",
+        "course_name": "Selected Topics in Audio Signal Processing",
+        "course_area": "Electrical Engineering",
+        "course_url": "https://github.com/spatialaudio/selected-topics-in-audio-signal-processing-lecture",
+        "instructor_name": "Sascha Spors",
+        "instructor_email": "Sascha.Spors@uni-rostock.de",
+        "contact_name": "Sascha Spors",
+        "contact_email": "Sascha.Spors@uni-rostock.de",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.103605,
+          54.076144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Gebze Technical University",
+        "institution_url": "http://gtu.edu.tr/insaat",
+        "course_name": "EQE512 Matrix Methods in Structural Analysis",
+        "course_area": "Civil Engineering Numerical Modelling",
+        "course_url": "http://anibal.gyte.edu.tr/ects/?dil=en&modul=ders_bilgi_formu&bolum=110&tip=yukseklisans&duzey=ucuncu&dno=DYB%20512",
+        "instructor_name": "Ahmet Anil Dindar",
+        "instructor_email": "adindar@gtu.edu.tr",
+        "contact_name": "Ahmet Anil Dindar",
+        "contact_email": "adindar@gtu.edu.tr",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          29.365570,
+          40.810207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Columbia University",
+        "institution_url": "https://www.columbia.edu/",
+        "course_name": "Introduction to Data Science in Industry APMAE4990",
+        "course_area": "Data Science",
+        "course_url": "https://github.com/Columbia-Intro-Data-Science/APMAE4990-",
+        "instructor_name": "Dorian Goldman",
+        "instructor_email": "dg2991@columbia.edu",
+        "contact_name": "Dorian Goldman",
+        "contact_email": "dg2991@columbia.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9606009,
+          40.806968
+        ]
+      }
     }
   ]
 }
