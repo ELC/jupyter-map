@@ -50,3 +50,24 @@ a {
     max-width: 300px;
     font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
 }
+
+.filter-ctrl {
+    position: absolute;
+    top: 120px;
+    right: 12px;
+    z-index: 1;
+    width: 180px;
+}
+
+.filter-ctrl input[type=text] {
+    font: 12px/20px "Helvetica Neue", Arial, Helvetica, sans-serif;
+    width: 100%;
+    border: 0;
+    background-color: #fff;
+    height: 40px;
+    margin: 0;
+    color: rgba(0,0,0,.5);
+    padding: 10px;
+    box-shadow: 0 0 0 2px rgba(0,0,0,0.1);
+    border-radius: 3px;
+}

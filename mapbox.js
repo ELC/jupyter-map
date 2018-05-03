@@ -5,6 +5,7 @@ var initial = [ -60.643775, -32.954626]
 var zoom = 1.5
 var url = 'https://raw.githubusercontent.com/ELC/jupyter-map/master/jupyter-map.geojson';
 var places; // Get value async below
+var filterInput = document.getElementById('filter-input');
 
 var map = new mapboxgl.Map({
     container: 'map',
@@ -43,8 +44,56 @@ async function addData() {
         }
     });
 
+    // Filter by Input
+
+    let layerIDs = [];
+
+    places.features.forEach(function(feature) {
+        var symbol = feature.properties['institution_name'];
+        var layerID = symbol.trim().toLowerCase();
+
+        // Add a layer for this symbol type if it hasn't been added already.
+        if (!map.getLayer(layerID)) {
+            map.addLayer({
+                "id": layerID,
+                "type": "symbol",
+                "source": "data",
+                "layout": {
+                    "icon-image": "marker-15",
+                    "icon-allow-overlap": true,
+                    "icon-size": 1.5,
+                    "text-field": "",
+                    'text-allow-overlap': true,
+                    'text-size': 14,
+                    "text-letter-spacing": 0.05,
+                    "text-offset": [0, 2],
+                },
+                "paint": {
+                    "text-color": "#202",
+                    "text-halo-color": "#fff",
+                    "text-halo-width": 2
+                },
+                "filter": ["==", "institution_name", symbol]
+            });
+
+            layerIDs.push(layerID);
+        }
     });
 
+    filterInput.addEventListener('keyup', function(e) {
+        // If the input value matches a layerID set
+        // it's visibility to 'visible' or else hide it.
+        map.setLayoutProperty('places', "visibility",
+            !e.target.value ? "visible" : "none");
+
+        var value = e.target.value.trim().toLowerCase();
+        layerIDs.forEach(function(layerID) {
+            map.setLayoutProperty(layerID, 'visibility',
+                layerID.includes(value) ? 'visible' : 'none');
+            map.setLayoutProperty(layerID, 'text-field',
+                (e.target.value && layerID.includes(value)) ? '{institution_name}' : '');
+        });
+    });
 }
 
 // First time
@@ -153,6 +202,9 @@ map.on('mouseleave', 'places', function(e) {
 });
 
 map.on('click', function(e) {
+    filterInput.value = ""
+    let event = new Event('keyup');
+    filterInput.dispatchEvent(event)
     map.getCanvas().style.cursor = '';
 });
 
