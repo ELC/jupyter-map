@@ -770,6 +770,270 @@
           40.806968
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Universitat de Barcelona",
+        "institution_url": "http://www.ub.edu",
+        "course_name": "Deep Learning",
+        "course_area": "Deep Learning Techniques",
+        "course_url": "https://github.com/DataScienceUB/DeepLearningMaster2018",
+        "instructor_name": "Jordi Vitrià",
+        "instructor_email": "jordi.vitria@ub.edu",
+        "contact_name": "Jordi Vitrià",
+        "contact_email": "jordi.vitria@ub.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1638464, 
+          41.3865169  
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "North Carolina State University",
+        "institution_url": "http://www.ncsu.edu",
+        "course_name": "Introduction to Scientific Computing",
+        "course_area": "Programming + Physics",
+        "course_url": "",
+        "instructor_name": "Alexander Kemper",
+        "instructor_email": "akemper@ncsu.edu",
+        "contact_name": "Alexander Kemper",
+        "contact_email": "akemper@ncsu.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6820946,
+          35.7846633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Northern Arizona University",
+        "institution_url": "https://nau.edu/",
+        "course_name": "Introduction to Applied Bioinformatics",
+        "course_area": "Bioinformatics",
+        "course_url": "https://github.com/caporaso-lab/An-Introduction-To-Applied-Bioinformatics",
+        "instructor_name": "J Gregory Caporaso",
+        "instructor_email": "regcaporaso@gmail.com",
+        "contact_name": "J Gregory Caporaso",
+        "contact_email": "regcaporaso@gmail.com",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.6562289,
+          35.1877234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "The Open University (UK)",
+        "institution_url": "https://www.open.ac.uk",
+        "course_name": "TM351 Data Management And Anlaysis ",
+        "course_area": "Computing",
+        "course_url": "http://www.open.ac.uk/courses/modules/tm351",
+        "instructor_name": "A Willis, N Smith, T Hirst",
+        "instructor_email": "",
+        "contact_name": "Tony Hirst",
+        "contact_email": "tony.hirst@open.ac.uk",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7138966,
+          52.0257217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "The Open University (UK)",
+        "institution_url": "https://www.open.ac.uk",
+        "course_name": "Learn to Code for Data Analysis ",
+        "course_area": "Computing",
+        "course_url": "https://www.futurelearn.com/courses/learn-to-code",
+        "instructor_name": "M Wermelinger, T Hirst",
+        "instructor_email": "",
+        "contact_name": "Tony Hirst",
+        "contact_email": "tony.hirst@open.ac.uk",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7148966,
+          52.0257217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Bryn Mawr College",
+        "institution_url": "https://www.brynmawr.edu/",
+        "course_name": "CS110: Introduction to Computing",
+        "course_area": "Introduction to Computing",
+        "course_url": "https://jupyter.brynmawr.edu/services/public/dblank/CS110%20Intro%20to%20Computing/2017-Fall/Syllabus.ipynb",
+        "instructor_name": "Douglas Blank",
+        "instructor_email": "dblank@brynmawr.edu",
+        "contact_name": "Douglas Blank",
+        "contact_email": "dblank@brynmawr.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3174281,
+          40.0281106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Bryn Mawr College",
+        "institution_url": "https://www.brynmawr.edu/",
+        "course_name": "CS240: Principles of Computer Organization",
+        "course_area": "Assembly Language",
+        "course_url": "https://jupyter.brynmawr.edu/services/public/dblank/CS240%20Computer%20Organization/2017-Fall/Syllabus.ipynb",
+        "instructor_name": "Douglas Blank",
+        "instructor_email": "dblank@brynmawr.edu",
+        "contact_name": "Douglas Blank",
+        "contact_email": "dblank@brynmawr.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3184281,
+          40.0281106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Bryn Mawr College",
+        "institution_url": "https://www.brynmawr.edu/",
+        "course_name": "CS206: Data Structures",
+        "course_area": "Data Structures ",
+        "course_url": "https://jupyter.brynmawr.edu/services/public/dblank/CS206%20Data%20Structures/2017-Spring/Syllabus.ipynb",
+        "instructor_name": "Douglas Blank",
+        "instructor_email": "dblank@brynmawr.edu",
+        "contact_name": "Douglas Blank",
+        "contact_email": "dblank@brynmawr.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3164281,
+          40.0281106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Bryn Mawr College",
+        "institution_url": "https://www.brynmawr.edu/",
+        "course_name": "BioCS115: Computing through Biology",
+        "course_area": "Biology",
+        "course_url": "https://jupyter.brynmawr.edu/services/public/josh/BioCS115_2016/Syllabus_2016.ipynb",
+        "instructor_name": "Douglas Blank",
+        "instructor_email": "dblank@brynmawr.edu",
+        "contact_name": "Douglas Blank",
+        "contact_email": "dblank@brynmawr.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3174281,
+          40.0291106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Bryn Mawr College",
+        "institution_url": "https://www.brynmawr.edu/",
+        "course_name": "CS245: Principles of Programming Languages",
+        "course_area": "Programming Languages",
+        "course_url": "https://jupyter.brynmawr.edu/services/public/dblank/CS245%20Programming%20Languages/2016-Fall/Syllabus.ipynb",
+        "instructor_name": "Douglas Blank",
+        "instructor_email": "dblank@brynmawr.edu",
+        "contact_name": "Douglas Blank",
+        "contact_email": "dblank@brynmawr.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3174281,
+          40.0271106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Bryn Mawr College",
+        "institution_url": "https://www.brynmawr.edu/",
+        "course_name": "CS371: Introduction to Cognitive Science",
+        "course_area": "Cognitive Science",
+        "course_url": "https://jupyter.brynmawr.edu/services/public/dblank/CS371%20Cognitive%20Science/2016-Fall/Syllabus.ipynb",
+        "instructor_name": "Douglas Blank",
+        "instructor_email": "dblank@brynmawr.edu",
+        "contact_name": "Douglas Blank",
+        "contact_email": "dblank@brynmawr.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3184281,
+          40.0291106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Bryn Mawr College",
+        "institution_url": "https://www.brynmawr.edu/",
+        "course_name": "ESEM: Humanity and Technology",
+        "course_area": "Firstyear writing seminar",
+        "course_url": "https://jupyter.brynmawr.edu/services/public/dblank/ESEM%20Humanity%20and%20Technology/2014-Fall/Syllabus.ipynb",
+        "instructor_name": "Douglas Blank",
+        "instructor_email": "dblank@brynmawr.edu",
+        "contact_name": "Douglas Blank",
+        "contact_email": "dblank@brynmawr.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3164281,
+          40.0271106
+        ]
+      }
     }
   ]
 }
