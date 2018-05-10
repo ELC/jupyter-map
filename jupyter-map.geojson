@@ -1034,6 +1034,292 @@
           40.0271106
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Universidad Nacional de San Luis",
+        "institution_url": "http://www.unsl.edu.ar/",
+        "course_name": "Introducción a la Ciencia de Datos",
+        "course_area": "Data Science",
+        "course_url": "https://github.com/PrACiDa/intro_ciencia_de_datos",
+        "instructor_name": "Osvaldo Martin",
+        "instructor_email": "omarti@unsl.edu.ar",
+        "contact_name": "Osvaldo Martin",
+        "contact_email": "omarti@unsl.edu.ar",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.3396156,
+          -33.2921486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of St Andrews",
+        "institution_url": "https://www.st-andrews.ac.uk/",
+        "course_name": "Advanced Programming Projects",
+        "course_area": "Computer Science",
+        "course_url": "https://portal.st-andrews.ac.uk/catalogue/View?code=CS2006",
+        "instructor_name": "Alexander Konovalov",
+        "instructor_email": "alexander.konovalov@st-andrews.ac.uk",
+        "contact_name": "Alexander Konovalov",
+        "contact_email": "alexander.konovalov@st-andrews.ac.uk",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7927522,
+          56.3416934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Indianapolis",
+        "institution_url": "http://www.uindy.edu/",
+        "course_name": "Scientific Computing",
+        "course_area": "Physics, Software Engr, Mech. Engr",
+        "course_url": "https://github.com/sspickle/sci-comp-notebooks",
+        "instructor_name": "Stephen Spicklemire",
+        "instructor_email": "spicklemire@uindy.edu",
+        "contact_name": "Stephen Spicklemire, Tim Duman",
+        "contact_email": "spicklemire@uindy.edu, tduman@uindy.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1351076,
+          39.709739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Western Ontario",
+        "institution_url": "http://www.uwo.ca/",
+        "course_name": "Data, the Humanist's New Best Friend",
+        "course_area": "Digital Humanities",
+        "course_url": "https://github.com/versae/dh2304",
+        "instructor_name": "Javier de la Rosa",
+        "instructor_email": "jdelaro@uwo.ca",
+        "contact_name": "Javier de la Rosa",
+        "contact_email": "jdelaro@uwo.ca",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2737336,
+          43.0095971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Stanford University",
+        "institution_url": "http://www.cidr.stanford.edu/",
+        "course_name": "Python for the Humanities and Social Sciences",
+        "course_area": "Humanities and Social Sciences",
+        "course_url": "https://github.com/sul-cidr/python_workshops",
+        "instructor_name": "Javier de la Rosa, Scott Bailey",
+        "instructor_email": "versae@stanford.edu, scottbailey@stanford.edu",
+        "contact_name": "Javier de la Rosa",
+        "contact_email": "versae@stanford.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.169719,
+          37.4274745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Bard College",
+        "institution_url": "http://www.bard.edu/",
+        "course_name": "Object Oriented Programming CMSC143",
+        "course_area": "Programming",
+        "course_url": "",
+        "instructor_name": "Keith J. O'Hara",
+        "instructor_email": "kohara@bard.edu",
+        "contact_name": "Keith J. O'Hara",
+        "contact_email": "kohara@bard.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9110544,
+          42.0203897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Bard College",
+        "institution_url": "http://www.bard.edu/",
+        "course_name": "Technologies of Reading: Human and Machine Approaches to Literature CMSC120",
+        "course_area": "Computer Science",
+        "course_url": "",
+        "instructor_name": "Keith J. O'Hara",
+        "instructor_email": "kohara@bard.edu",
+        "contact_name": "Keith J. O'Hara",
+        "contact_email": "kohara@bard.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9090544,
+          42.0203897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Bard College",
+        "institution_url": "http://www.bard.edu/",
+        "course_name": "Signs and Symbols: Pattern Recognition in Literature and Code LIT 2032",
+        "course_area": "Literature",
+        "course_url": "",
+        "instructor_name": "Keith J. O'Hara",
+        "instructor_email": "kohara@bard.edu",
+        "contact_name": "Keith J. O'Hara",
+        "contact_email": "kohara@bard.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9100544,
+          42.0213897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Bard College",
+        "institution_url": "http://www.bard.edu/",
+        "course_name": "The Computational Image CMSC 317",
+        "course_area": "Computer Science",
+        "course_url": "",
+        "instructor_name": "Keith J. O'Hara",
+        "instructor_email": "kohara@bard.edu",
+        "contact_name": "Keith J. O'Hara",
+        "contact_email": "kohara@bard.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9100544,
+          42.0193897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Hamburg",
+        "institution_url": "https://www.uni-hamburg.de/en.html",
+        "course_name": "Time series analysis",
+        "course_area": "Geophysics",
+        "course_url": "https://github.com/LarsKaleschke/Zeitreihenanalyse/",
+        "instructor_name": "Lars Kaleschke",
+        "instructor_email": "lars.kaleschke@uni-hamburg.de",
+        "contact_name": "Lars Kaleschke",
+        "contact_email": "lars.kaleschke@mpimet.mpg.de",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.9846195,
+          53.5665641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of California San Diego",
+        "institution_url": "http://www.ucsd.edu",
+        "course_name": " Structural Bioinformatics Training Workshop & Hackathon 2018",
+        "course_area": "Structural Bioinformatics",
+        "course_url": "https://github.com/sbl-sdsc/mmtf-workshop-2018",
+        "instructor_name": "Peter Rose",
+        "instructor_email": "pwrose@ucsd.edu",
+        "contact_name": "Peter Rose",
+        "contact_email": "pwrose@ucsd.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.235316,
+          32.879037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Silesian University of Technology",
+        "institution_url": "http://www.polsl.pl/",
+        "course_name": "Modern programming languages",
+        "course_area": "Computer Science",
+        "course_url": "http://ms.polsl.pl/kartyprzedm/Inf_I_2015-16/inf_I_7_12_Nowoczesne_jezyki_programowania.pdf",
+        "instructor_name": "Piotr Gawron",
+        "instructor_email": "gawron@iitis.pl",
+        "contact_name": "Piotr Gawron",
+        "contact_email": "gawron@iitis.pl",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.674531,
+          50.291651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Siena College",
+        "institution_url": "https://www.siena.edu/",
+        "course_name": "CSIS 200: Software Tools for Physicists",
+        "course_area": "Computer Science",
+        "course_url": "https://github.com/mattbellis/Siena-College-CSIS-200",
+        "instructor_name": "Matthew Bellis",
+        "instructor_email": "mbellis@siena.edu",
+        "contact_name": "Matthew Bellis",
+        "contact_email": "mbellis@siena.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7521951,
+          42.718452
+        ]
+      }
     }
   ]
 }
