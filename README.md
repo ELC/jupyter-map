@@ -2,7 +2,7 @@
 
 [![MAP](https://img.shields.io/badge/Interactive%20Map-Online-green.svg)](https://elc.github.io/jupyter-map/) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1245087.svg)](https://doi.org/10.5281/zenodo.1245087)
 
-## Embeb the map in your website
+## Embedding the map in your website
 
 You just have to simply add the following HTML:
 
@@ -30,7 +30,7 @@ Then the results from the [Survey conducted by Jessica Hamrick](https://github.c
 
 ## Find a bug?
 
-Create an [issue](https://github.com/ELC/jupyter-map/issues/new/choose)
+Create an [issue](https://github.com/ELC/jupyter-map/issues)
 
 ## Cite
 
