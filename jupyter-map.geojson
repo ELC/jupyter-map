@@ -1320,6 +1320,270 @@
           42.718452
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "California Polytechnic State University",
+        "institution_url": "https://www.calpoly.edu/",
+        "course_name": "Data 301",
+        "course_area": "",
+        "course_url": "",
+        "instructor_name": "",
+        "instructor_email": "",
+        "contact_name": "Dennis Sun",
+        "contact_email": "dsun09@calpoly.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6624942,
+          35.3050053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Sheffield University",
+        "institution_url": "https://www.sheffield.ac.uk/",
+        "course_name": "Observational Astronomy",
+        "course_area": "Physics & Astronomy",
+        "course_url": "https://www.sheffield.ac.uk/physics/teaching/phy241/index",
+        "instructor_name": "Stuart Littlefair",
+        "instructor_email": "s.littlefair@sheffield.ac.uk",
+        "contact_name": "Stuart Littlefair",
+        "contact_email": "s.littlefair@sheffield.ac.uk",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4879469,
+          53.3809409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Ballenas Secondary School",
+        "institution_url": "http://bss.sd69.bc.ca/",
+        "course_name": "Physics 12, Science Research Methods 12",
+        "course_area": "Science/Mathematics",
+        "course_url": "",
+        "instructor_name": "Carl Savage",
+        "instructor_email": "csavage@sd69.bc.ca",
+        "contact_name": "Carl Savage",
+        "contact_email": "csavage@sd69.bc.ca",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.338968,
+          49.32193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "California Institute of Technology",
+        "institution_url": "http://www.caltech.edu/",
+        "course_name": "BE/Bi 103: Data Analysis in the Biological Sciences",
+        "course_area": "Biology - Data analysis",
+        "course_url": "http://bebi103.caltech.edu/",
+        "instructor_name": "Justin Bois",
+        "instructor_email": "bois@caltech.edu",
+        "contact_name": "Justin Bois",
+        "contact_email": "bois@caltech.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.125269,
+          34.1376576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of South-Eastern Norway",
+        "institution_url": "https://www.usn.no/?lang=en_GB",
+        "course_name": "Electrical Machines",
+        "course_area": "Electrical Power Engineering",
+        "course_url": "https://www.usn.no/english/academics/study-and-subjectplans/#/subjects/EK5312_2018H_1",
+        "instructor_name": "Dietmar Winkler",
+        "instructor_email": "Dietmar.Winkler@usn.no",
+        "contact_name": "Dietmar Winkler",
+        "contact_email": "Dietmar.Winkler@usn.no",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2797328,
+          59.5684418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of South-Eastern Norway",
+        "institution_url": "https://www.usn.no/?lang=en_GB",
+        "course_name": "Modelling of Dynamic Systems",
+        "course_area": "Master in Industrial IT and Automation, Electrical Power Engineering",
+        "course_url": "https://www.usn.no/english/academics/study-and-subjectplans/#/subjects/FM1015_2018H_1",
+        "instructor_name": "Bernt Lie",
+        "instructor_email": "Bernt.Lie@usn.no",
+        "contact_name": "Dietmar Winkler",
+        "contact_email": "Dietmar.Winkler@usn.no",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.2787328,
+          59.5684418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Bielefeld University",
+        "institution_url": "https://www.uni-bielefeld.de/(en)/",
+        "course_name": "Data Journalism - Explorative Data Analysis in Python",
+        "course_area": "",
+        "course_url": "",
+        "instructor_name": "",
+        "instructor_email": "",
+        "contact_name": "David Schlangen",
+        "contact_email": "david.schlangen@uni-bielefeld.de",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4947571,
+          52.0378003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Louisiana at Lafayette",
+        "institution_url": "https://louisiana.edu/",
+        "course_name": "MCHE485: Mechanical Vibrations",
+        "course_area": "Mechanical Engineering, vibrations",
+        "course_url": "http://www.ucs.louisiana.edu/~jev9637/MCHE485.html",
+        "instructor_name": "Joshua Vaughan",
+        "instructor_email": "joshua.vaughan@louisiana.edu",
+        "contact_name": "Joshua Vaughan",
+        "contact_email": "joshua.vaughan@louisiana.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0204121,
+          30.2114404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "The University of Memphis",
+        "institution_url": "https://memphs.edu",
+        "course_name": "Introduction to Global Geophysics",
+        "course_area": "Geophysics",
+        "course_url": "",
+        "instructor_name": "Eunseo Choi",
+        "instructor_email": "echoi2@memphis.edu",
+        "contact_name": "Eunseo Choi",
+        "contact_email": "echoi2@memphis.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9402557,
+          35.1188239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Illinois at Urbana–Champaign",
+        "institution_url": "http://illinois.edu/",
+        "course_name": "CS 101 Introduction to Computing for Science and Engineering",
+        "course_area": "",
+        "course_url": "https://go.illinois.edu/cs101",
+        "instructor_name": "Neal Davis",
+        "instructor_email": "davis68@illinois.edu",
+        "contact_name": "Ryan Cunningham, Neal Davis",
+        "contact_email": "rcunnin2@illinois.edu, davis68@illinois.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2272802,
+          40.1024383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Universidad Complutense de Madrid",
+        "institution_url": "https://www.ucm.es/english",
+        "course_name": "Diseño Óptico y Optométrico",
+        "course_area": "Optics",
+        "course_url": "https://optica.ucm.es/data/cont/docs/13-2013-07-26-OP_Dise%C3%B1o%20%C3%B3ptico%20y%20optom%C3%A9trico%202.pdf",
+        "instructor_name": "Eduardo Cabrera Granado",
+        "instructor_email": "ecabrera@ucm.es",
+        "contact_name": "Eduardo Cabrera Granado",
+        "contact_email": "ecabrera@ucm.es",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.7285872,
+          40.4478246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Univ Pau & Pays Adour",
+        "institution_url": "https://www.univ-pau.fr/",
+        "course_name": "Numeracy, a tool box for beginners",
+        "course_area": "Numerical simulations",
+        "course_url": "",
+        "instructor_name": "Germain Salvato-Vallverdu, Vincent Le Bris",
+        "instructor_email": "germain.vallverdu@univ-pau.fr, vincent.lebris@univ-pau.fr",
+        "contact_name": "Germain Salvato-Vallverdu, Vincent Le Bris",
+        "contact_email": "germain.vallverdu@univ-pau.fr, vincent.lebris@univ-pau.fr",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.365641,
+          43.3150753
+        ]
+      }
     }
   ]
 }
