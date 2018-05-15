@@ -22,7 +22,6 @@ body {
     position: fixed;
     bottom: 20px;
     left: 40%;
-    right: 40%;
     width: 20%;
     padding: 10px;
     border: none;
@@ -32,6 +31,34 @@ body {
     color: #fff;
     background: #3776ab;
 }
+
+.side-button{
+    display: block;
+    position: fixed;
+    right: 1%;
+    width: 222px;
+    padding: 10px;
+    border: none;
+    border-radius: 15px;
+    font-size: 16px;
+    text-align: center;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+.side-button a {
+    color: #fff;
+}
+
+.add-button {
+    top: 190px;
+    background: #5cb85c;
+}
+
+.star-button {
+    top: 250px;
+    background: #f0ad4e;
+}
+
 
 a {
     color: #3776ab;
@@ -53,7 +80,7 @@ a {
 
 .filter-ctrl {
     position: absolute;
-    top: 120px;
+    top: 110px;
     right: 12px;
     z-index: 1;
     width: 180px;
