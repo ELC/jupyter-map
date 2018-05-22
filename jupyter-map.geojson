@@ -1501,7 +1501,7 @@
       "type": "Feature",
       "properties": {
         "institution_name": "The University of Memphis",
-        "institution_url": "https://memphs.edu",
+        "institution_url": "https://memphis.edu",
         "course_name": "Introduction to Global Geophysics",
         "course_area": "Geophysics",
         "course_url": "",
@@ -1582,6 +1582,160 @@
         "coordinates": [
           -0.365641,
           43.3150753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Florida International University",
+        "institution_url": "http://www.fiu.edu",
+        "course_name": "",
+        "course_area": "",
+        "course_url": "",
+        "instructor_name": "Alfonso Rodriguez",
+        "instructor_email": "arodr002@fiu.edu",
+        "contact_name": "Alfonso Rodriguez",
+        "contact_email": "arodr002@fiu.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.373949,
+          25.756576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Glasgow",
+        "institution_url": "http://www.gla.ac.uk",
+        "course_name": "CS1P Introductory programming in Python",
+        "course_area": "Programming",
+        "course_url": "",
+        "instructor_name": "John H. Williamson",
+        "instructor_email": "johnh.williamson@glasgow.ac.uk",
+        "contact_name": "John H. Williamson",
+        "contact_email": "johnh.williamson@glasgow.ac.uk",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2903838,
+          55.8721241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "George Washington University",
+        "institution_url": "https://www.gwu.edu",
+        "course_name": "Practical Numerical Methods with Python",
+        "course_area": "Mathematics and Programming",
+        "course_url": "https://openedx.seas.gwu.edu/courses/course-v1:MAE+MAE6286+2017/about",
+        "instructor_name": "Lorena A. Barba",
+        "instructor_email": "labarba@gwu.edu",
+        "contact_name": "Lorena A. Barba",
+        "contact_email": "labarba@gwu.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0507825,
+          38.8997187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Pretoria",
+        "institution_url": "http://www.up.ac.za",
+        "course_name": "CPN321 Process dynamics",
+        "course_area": "Process dynamics",
+        "course_url": "",
+        "instructor_name": "Carl Sandrock",
+        "instructor_email": "carl.sandrock@up.ac.za",
+        "contact_name": "Carl Sandrock",
+        "contact_email": "carl.sandrock@up.ac.za",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.1600862,
+          -25.7329414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Exeter",
+        "institution_url": "https://www.exeter.ac.uk/",
+        "course_name": "GEO1311 Study Skills fr Physical Geographers",
+        "course_area": "Scientific Writing and Data Analysis",
+        "course_url": "http://geography.exeter.ac.uk/currentstudents/undergraduate/modules_streatham/description/index.php?moduleCode=GEO1311&ay=2018/9",
+        "instructor_name": "Damien Mansell",
+        "instructor_email": "d.t.mansell@exeter.ac.uk",
+        "contact_name": "Damien Mansell",
+        "contact_email": "d.t.mansell@exeter.ac.uk",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.5351475,
+          50.7371369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Texas A&M University",
+        "institution_url": "https://www.tamu.edu/",
+        "course_name": "Python for Geosciences",
+        "course_area": "Programming",
+        "course_url": "https://github.com/kthyng/python4geosciences",
+        "instructor_name": "Kristen Thyng, Rob Hetland",
+        "instructor_email": "kthyng@tamu.edu",
+        "contact_name": "Kristen Thyng",
+        "contact_email": "kthyng@tamu.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3370242,
+          30.6184539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Southwestern University of Finance and Economics",
+        "institution_url": "http://www.swufe.edu.cn",
+        "course_name": "Fintech101",
+        "course_area": "FinTech",
+        "course_url": "http://labtest.swufe.edu.cn",
+        "instructor_name": "Xubin Cao",
+        "instructor_email": "cxb@swufe.edu.cn",
+        "contact_name": "Xubin Cao",
+        "contact_email": "cxb@swufe.edu.cn",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.0162687,
+          30.6628147
         ]
       }
     }
