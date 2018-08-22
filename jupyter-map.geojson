@@ -1738,6 +1738,94 @@
           30.6628147
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Universidad Técnica Federico Santa María",
+        "institution_url": "http://www.usm.cl/",
+        "course_name": "Computación Científica, Computación Científica II, Aplicaciones de Métodos Numéricos y Métodos Numéricos Computacionales",
+        "course_area": "Scientific Computing, Computer Science, Applied Mathematics",
+        "course_url": "https://github.com/tclaudioe/Scientific-Computing",
+        "instructor_name": "Claudio E. Torres",
+        "instructor_email": "claudio.torres@usm.cl",
+        "contact_name": "Claudio E. Torres",
+        "contact_email": "claudio.torres@usm.cl",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.595767,
+          -33.035194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Université de Perpignan Via Domitia",
+        "institution_url": "http://www.univ-perp.fr",
+        "course_name": "Algorithmic and programming",
+        "course_area": "Algorithms",
+        "course_url": "",
+        "instructor_name": "Philippe Langlois",
+        "instructor_email": "langlois@univ-perp.fr",
+        "contact_name": "Philippe Langlois",
+        "contact_email": "langlois@univ-perp.fr",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8988733,
+          42.6820428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Universidad Nacional de Colombia",
+        "institution_url": "http://www.unal.edu.co",
+        "course_name": "Machine Learning",
+        "course_area": "Machine Learning",
+        "course_url": "https://fagonzalezo.github.io/ml-2018-1/",
+        "instructor_name": "Fabio Gonzalez",
+        "instructor_email": "fagonzalezo@unal.edu.co",
+        "contact_name": "Fabio Gonzalez",
+        "contact_email": "fagonzalezo@unal.edu.co",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0844584,
+          4.638178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of North Carolina at Chapel Hill",
+        "institution_url": "https://unc.edu",
+        "course_name": "Comp 116",
+        "course_area": "Programming ",
+        "course_url": "",
+        "instructor_name": "Gary Bishop, John Majikes",
+        "instructor_email": "gb@cs.unc.edu",
+        "contact_name": "Gary Bishop",
+        "contact_email": "gb@cs.unc.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.047591,
+          35.9048667
+        ]
+      }
     }
   ]
 }
