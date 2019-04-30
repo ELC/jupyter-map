@@ -1826,6 +1826,138 @@
           35.9048667
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Oslo",
+        "institution_url": "https://www.uio.no",
+        "course_name": "BIOS1100",
+        "course_area": "Computational modelling, Python, Biology",
+        "course_url": "https://www.uio.no/studier/emner/matnat/ibv/BIOS1100/",
+        "instructor_name": "Lex Nederbragt",
+        "instructor_email": "lex.nederbragt@ibv.uio.no",
+        "contact_name": "Lex Nederbragt",
+        "contact_email": "lex.nederbragt@ibv.uio.no",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.7217496,
+          59.9399586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of California at Berkeley",
+        "institution_url": "https://www.berkeley.edu",
+        "course_name": "Data 8: The Foundations of Data Science",
+        "course_area": "",
+        "course_url": "http://data8.org",
+        "instructor_name": "John Denero, Ani Adhikari, David Wagner",
+        "instructor_email": "denero@berkeley.edu, adhikari@berkeley.edu, daw@berkeley.edu",
+        "contact_name": "Ryan Lovett",
+        "contact_email": "rylo@berkeley.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2577299,
+          37.8713326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Aix-Marseille School of Economics",
+        "institution_url": "https://www.amse-aixmarseille.fr/",
+        "course_name": "IT Tools for Big Data",
+        "course_area": "Jupyter, Pyspark",
+        "course_url": "",
+        "instructor_name": "Hervé MIGNOT",
+        "instructor_email": "mignot.h.1@univ-amu.fr",
+        "contact_name": "Hervé MIGNOT",
+        "contact_email": "mignot.h.1@univ-amu.fr",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.377208,
+          43.302424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of British Columbia",
+        "institution_url": "https://www.ubc.ca/",
+        "course_name": "EOSC 350",
+        "course_area": "Environmental, Geotechnical and Exploration Geophysics",
+        "course_url": "http://eosc350.geosci.xyz",
+        "instructor_name": "Dr. Douglas Oldenburg",
+        "instructor_email": "",
+        "contact_name": "Lindsey Heagy",
+        "contact_email": "lheagy@eos.ubc.ca",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.2559259,
+          49.2647504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Fairfield University",
+        "institution_url": "https://fairfield.edu",
+        "course_name": "BA 505",
+        "course_area": "Python, Numpy, Pandas, Matplotlib, Bokeh",
+        "course_url": "",
+        "instructor_name": "Christopher Huntley",
+        "instructor_email": "chuntley@fairfield.edu",
+        "contact_name": "Christopher Huntley",
+        "contact_email": "chuntley@fairfield.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2579973,
+          41.1588186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Univ Paris Diderot",
+        "institution_url": "https://www.univ-paris-diderot.fr/",
+        "course_name": "Programmation Python",
+        "course_area": "Bioinformatics",
+        "course_url": "",
+        "instructor_name": "Pierre Poulain, Patrick Fuchs",
+        "instructor_email": "pierre.poulain@univ-paris-diderot.fr",
+        "contact_name": "Pierre Poulain",
+        "contact_email": "pierre.poulain@univ-paris-diderot.fr",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3811272,
+          48.8280528
+        ]
+      }
     }
   ]
 }
