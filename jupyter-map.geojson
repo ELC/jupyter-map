@@ -1958,6 +1958,28 @@
           48.8280528
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "University of Utah",
+        "institution_url": "https://www.utah.edu",
+        "course_name": "Programming for Biomedical Data Science",
+        "course_area": "Bioinformatics",
+        "course_url": "",
+        "instructor_name": "Brian Chapman",
+        "instructor_email": "brian.chapman@utah.edu",
+        "contact_name": "Brian Chapman",
+        "contact_email": "brian.chapman@utah.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.8421914,
+          40.7652858
+        ]
+      }
     }
   ]
 }
