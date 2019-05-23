@@ -1980,6 +1980,28 @@
           40.7652858
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Shiraz University",
+        "institution_url": "https://shirazu.ac.ir/",
+        "course_name": "River Engineering",
+        "course_area": "Modeling Sediment Transport",
+        "course_url": "",
+        "instructor_name": "",
+        "instructor_email": "",
+        "contact_name": "Shahab A.Shojaeezadeh",
+        "contact_email": "s.shojaeezadeh@shirazu.ac.ir",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.5791061,
+          29.5812876
+        ]
+      }
     }
   ]
 }
