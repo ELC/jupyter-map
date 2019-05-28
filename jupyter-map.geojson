@@ -2002,6 +2002,28 @@
           29.5812876
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Eidgenössische Technische Hochschule Zürich",
+        "institution_url": "http://www.ethz.ch",
+        "course_name": "Complex Systems",
+        "course_area": "",
+        "course_url": "",
+        "instructor_name": "",
+        "instructor_email": "",
+        "contact_name": "Sebastian Windeck",
+        "contact_email": "swindeck@student.ethz.ch",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.5468545,
+          47.3761277
+        ]
+      }
     }
   ]
 }
