@@ -169,10 +169,17 @@ map.on('mouseenter', 'places', function(e) {
         }
     }
 
+    let course_url_html = ""
+    if (properties.course_url !== ""){
+        course_url_html = '<a href=' + properties.course_url + ' target="_blank">' + properties.course_name + '</a>'
+    } else{
+        course_url_html = properties.course_name
+    }
+
     popup.setLngLat(coordinates)
         .setHTML(`
             <h2><a href="${properties.institution_url}" target="_blank">${properties.institution_name}</a></h2>
-            <p><strong>Course Name: </strong> <a href="${properties.course_url}" target="_blank">${properties.course_name}</a></p>
+            <p><strong>Course Name: </strong> ${course_url_html}</p>
             <p><strong>Course Area: </strong> ${properties.course_area}</p>
             ${contactInfo}`
         )
