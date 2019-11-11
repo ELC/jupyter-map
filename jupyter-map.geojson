@@ -2024,6 +2024,116 @@
           47.3761277
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Conservatoire National des Arts et Métiers",
+        "institution_url": "http://www.cnam.fr/",
+        "course_name": "Python R Octave",
+        "course_area": "",
+        "course_url": "",
+        "instructor_name": "",
+        "instructor_email": "",
+        "contact_name": "Rafik Abdesselam",
+        "contact_email": "rafik.abdesselam@cnam.fr",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3552311,
+          48.8666636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "SUNY Polytechnic Institute",
+        "institution_url": "https://sunypoly.edu",
+        "course_name": "MAT151",
+        "course_area": "Calculus",
+        "course_url": "",
+        "instructor_name": "William Thistleton",
+        "instructor_email": "thistlet@sunypoly.edu",
+        "contact_name": "Elizabeth Green",
+        "contact_email": "greene2@sunypoly.edu",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2293955,
+          43.1358004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "RWTH Aachen University",
+        "institution_url": "https://www.rwth-aachen.de",
+        "course_name": "Geophysical Process Simulations",
+        "course_area": "Heat and fluid flow, coupled processes, conservation laws, finite differences, finite elements",
+        "course_url": "",
+        "instructor_name": "Florian Wellmannn",
+        "instructor_email": "florian.wellmann@cgre.rwth-aachen.de",
+        "contact_name": "Florian Wellmannn",
+        "contact_email": "florian.wellmann@cgre.rwth-aachen.de",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0658914,
+          50.7788937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Hamburg University of Technology",
+        "institution_url": "https://www.tuhh.de/",
+        "course_name": "Introduction to Information Technology",
+        "course_area": "Python Programming Basics",
+        "course_url": "https://www3.tuhh.de/itbh/lehre/inf1-sose2019/",
+        "instructor_name": "Axel Dürkop",
+        "instructor_email": "axel.duerkop@tuhh.de",
+        "contact_name": "",
+        "contact_email": "",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96925,
+          53.46320
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "institution_name": "Hamburg University of Technology",
+        "institution_url": "https://www.tuhh.de/",
+        "course_name": "Machine Learning in Logistics",
+        "course_area": "Machine Learning",
+        "course_url": "https://intranet.tuhh.de/kvvz/vorlesung.php?Lang=en&sg_s=IWIMS&mid=1402&xtype=a&kvvz=1",
+        "instructor_name": "Marvin Kastner",
+        "instructor_email": "marvin.kastner@tuhh.de",
+        "contact_name": "",
+        "contact_email": "",
+        "icon": "marker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.96900,
+          53.46305
+        ]
+      }
     }
   ]
 }
